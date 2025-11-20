@@ -1,0 +1,9 @@
+{
+    "n_clusters": 6,
+    "n_init": 25,
+    "max_iter": 80,
+    "reduce_mode": "mean",
+    "var_idx": null,
+    "metric": "sbd",
+    "random_state": 42
+}

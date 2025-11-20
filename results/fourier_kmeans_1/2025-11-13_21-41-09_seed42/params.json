@@ -1,0 +1,9 @@
+{
+    "n_clusters": 6,
+    "n_init": 25,
+    "max_iter": 100,
+    "n_fourier_coeffs": 8,
+    "random_state": 42,
+    "metric": "euclidean_fft",
+    "sampling_rate": 51.2
+}

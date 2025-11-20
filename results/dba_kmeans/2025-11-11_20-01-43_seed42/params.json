@@ -1,0 +1,9 @@
+{
+    "n_clusters": 6,
+    "n_init": 20,
+    "max_iter": 50,
+    "max_iter_barycenter": 150,
+    "random_state": 42,
+    "sakoe_chiba_radius": 10,
+    "metric": "dtw"
+}

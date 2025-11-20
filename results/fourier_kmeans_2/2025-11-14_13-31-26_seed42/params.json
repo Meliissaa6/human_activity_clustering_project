@@ -1,0 +1,11 @@
+{
+    "n_clusters": 6,
+    "n_init": 15,
+    "max_iter": 100,
+    "n_fourier_coeffs": 16,
+    "n_components": 0.95,
+    "svd_solver": "full",
+    "random_state": 42,
+    "metric": "euclidean_fft_pca",
+    "sampling_rate": 51.2
+}

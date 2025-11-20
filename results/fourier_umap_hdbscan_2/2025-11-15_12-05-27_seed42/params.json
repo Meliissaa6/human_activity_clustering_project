@@ -1,0 +1,13 @@
+{
+    "n_fourier_coeffs": 16,
+    "umap_n_components": 2,
+    "umap_n_neighbors": 15,
+    "umap_min_dist": 0.1,
+    "umap_metric": "manhattan",
+    "hdb_min_cluster_size": 30,
+    "hdb_min_samples": 10,
+    "hdb_metric": "manhattan",
+    "random_state": 42,
+    "sampling_rate": 51.2,
+    "metric": "fourier_umap_hdbscan"
+}
